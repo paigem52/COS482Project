@@ -60,8 +60,8 @@ def plot_water_bar_chart(df):
         "ChatGPT x10 queries",
         "Google Search x10 queries",
         # uncomment if you want these too:
-        # "TikTok x10 min",
-        # "Netflix x10 min",
+        #"TikTok x10 min",
+        "Netflix x10 min",
     ]
     df_plot = df[df["Activity"].isin(keep)].copy()
 
