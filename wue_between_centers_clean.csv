@@ -1,0 +1,7 @@
+provider,wue_L_per_kWh
+Provider,
+Microsoft,
+AWS,0.15
+Google,1.0
+Meta,0.2
+ChatGPT (per request),0.9411764705882353

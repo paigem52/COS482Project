@@ -1,0 +1,6 @@
+0,1,2,3,4,5
+Provider,Carbon Goal,Renewable Energy,Power Usage Effectiveness (PUE),Water Goal,Water Usage Effectiveness (WUE)
+Microsoft,Carbon-negative 2030,90% (target: 100% 2025),1.125,Water-positive 2030,ND (no water in new designs)
+AWS,Net-zero 2040,100% since 2023,1.15,Water-positive 2030 (53% progress),0.15 L/kWh
+Google,Net-zero 2030,"100% annually, 64% CFE 24/7",1.10,Replenish 120% of water,~1 L/kWh
+Meta,Net-zero 2030,100% since 2020,1.08,Replenish 200% in high-stress areas,0.20 L/kWh
